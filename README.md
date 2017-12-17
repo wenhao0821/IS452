@@ -1,2 +1,3 @@
-# IS452
+# IS452 final
+snack game
 
